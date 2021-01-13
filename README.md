@@ -1,4 +1,4 @@
-# awesome-ot
+# Awesome Operational Transformation
 
 About the operational transformation core tech.
 
