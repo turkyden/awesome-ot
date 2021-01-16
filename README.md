@@ -2,6 +2,10 @@
 
 About the operational transformation core tech.
 
+## What is OT ?
+
+...
+
 ## Refference
 
 - https://en.m.wikipedia.org/wiki/Operational_transformation
