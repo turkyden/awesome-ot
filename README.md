@@ -21,5 +21,5 @@ About the operational transformation core tech.
 
 ## In China
 
-- [@yiminghe - alibaba/dingtalk docs](https://github.com/yiminghe)
+- [Alibaba DingTalk Docs @yiminghe](https://github.com/yiminghe)
 - 
