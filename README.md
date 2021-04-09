@@ -4,7 +4,7 @@ About the operational transformation core tech. [OT](http://operational-transfor
 
 ## What is OT ?
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/24560160/114141318-04a9e100-9944-11eb-9e40-d0b95a25eac1.png)
 
 ## Refference
 
