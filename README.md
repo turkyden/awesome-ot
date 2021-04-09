@@ -1,8 +1,8 @@
 # Awesome Operational Transformation
 
-About the operational transformation core tech. [OT](http://operational-transformation.github.io/)
+About the operational transformation core tech. 
 
-## What is OT ?
+## What is [OT](http://operational-transformation.github.io/) ?
 
 ![image](https://user-images.githubusercontent.com/24560160/114141318-04a9e100-9944-11eb-9e40-d0b95a25eac1.png)
 
