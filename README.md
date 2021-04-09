@@ -1,6 +1,6 @@
-# Awesome Operational Transformation
+# Awesome OT
 
-About the operational transformation core tech. 
+OT(Operational Transformation) About the operational transformation core tech. 
 
 ## What is [OT](http://operational-transformation.github.io/) ?
 
