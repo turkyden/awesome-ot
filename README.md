@@ -1,10 +1,10 @@
 # Awesome Operational Transformation
 
-About the operational transformation core tech.
+About the operational transformation core tech. [OT](http://operational-transformation.github.io/)
 
 ## What is OT ?
 
-...
+![Uploading image.png…]()
 
 ## Refference
 
